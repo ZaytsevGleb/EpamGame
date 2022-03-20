@@ -1,0 +1,16 @@
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ConsoleGame_Epam.exe
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ConsoleGame_Epam.deps.json
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ConsoleGame_Epam.runtimeconfig.json
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ConsoleGame_Epam.runtimeconfig.dev.json
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ConsoleGame_Epam.dll
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ref\ConsoleGame_Epam.dll
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\bin\Debug\net5.0\ConsoleGame_Epam.pdb
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.dll
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ref\ConsoleGame_Epam.dll
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.pdb
+C:\Users\Глеб\source\repos\ConsoleGame_Epam\ConsoleGame_Epam\obj\Debug\net5.0\ConsoleGame_Epam.genruntimeconfig.cache
